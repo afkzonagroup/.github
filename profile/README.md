@@ -19,7 +19,7 @@ Open-source tools for EU compliance, built to be used in real products and check
 
 Every tool cites the article it implements and links the official text on EUR-Lex. None of them is legal advice.
 
-**Licences.** Libraries meant to be embedded in your product are Apache-2.0. Applications and scanners are AGPL-3.0, with a commercial licence for organisations that cannot accept AGPL terms or want the enterprise features (hosted dashboard, continuous monitoring, SSO, audit evidence packs, legal-update feed, support). Contact info@afkzonagroup.lt.
+**Licences.** Libraries meant to be embedded in your product are Apache-2.0. Applications and scanners are AGPL-3.0, with a commercial licence for organisations that cannot accept AGPL terms, plus integration, custom connectors and features, and support agreements. Contact info@afkzonagroup.lt.
 
 **Security.** Report vulnerabilities privately through each repository's Security tab ("Report a vulnerability").
 
